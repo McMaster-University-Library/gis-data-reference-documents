@@ -10,3 +10,6 @@
 |Crete WWII 50k Topos|[link](https://library.mcmaster.ca/maps/ww2/crete_50k_topos/)|[link](https://github.com/McMaster-University-Library/crete_50k_topos)|
 |Robt Clifford Carte de France|[link](https://library.mcmaster.ca/maps/robertclifford/carte_de_france/)|[link](https://github.com/McMaster-University-Library/carte_de_france)|
 |WWII Aeronautical Charts|[link](https://library.mcmaster.ca/maps/ww2aerocharts/index.html)|[link](https://github.com/McMaster-University-Library/ww2aerocharts)|
+|Robt Clifford Pays-Bas Zoomable|[link](https://library.mcmaster.ca/maps/robertclifford/pays-bas/)|[link](https://github.com/McMaster-University-Library/robert-clifford-zoomable)|
+|NTS Index|[link](https://library.mcmaster.ca/maps/ntsindex/)|[link](https://github.com/McMaster-University-Library/nts-index)|
+|OBM Index|[link](https://library.mcmaster.ca/maps/obmindex/)|[link](https://github.com/McMaster-University-Library/obm-index)|
