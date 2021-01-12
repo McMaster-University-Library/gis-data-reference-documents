@@ -6,7 +6,7 @@
 - Return image specifications  
 ```identify LCMSDS_WW2_DefOvrPrnt_Emden_1945_c1.tif```
 
-- Convert png to jpg, resize to 50%
+- Convert png to jpg, resize to 50%  
 ```magick convert RelevantResearchEmailImage_v2.png -resize 50% RelevantResearchEmailImage_v2_small.jpg```
 
 - Compress TIFF using LZW compression  
