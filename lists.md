@@ -1,4 +1,19 @@
-# List of map indexes
+## Data request forms:
+- OGDE: https://goo.gl/forms/wQODNEkPtJ
+- City of Hamilton: https://goo.gl/forms/3mvxY34ipp
+- DMTI: https://goo.gl/forms/WKFgsCGFSs
+- Teranet: https://goo.gl/forms/sbtAOEMQSm
+- McMaster University Data: https://goo.gl/forms/9YQslM5l733TimPl2
+- Outside requests for City of Hamilton requests go to: GISServices@hamilton.ca
+
+- Comparison of Hamilton Open and Non-Open data: https://goo.gl/sT1dUW
+- Hamilton Open and Accessible Data: https://www.hamilton.ca/city-initiatives/strategies-actions/open-accessible-data 
+
+## Digital Archive CC Waiver request:
+- Request for commercial use of digital archive items: https://goo.gl/forms/OSi1mSj1PhiMrkYB3
+
+
+## List of map indexes
 
 | Index Name | Index URL | Index Repo URL |
 |-------|-----|-----|
