@@ -3,6 +3,12 @@
 
 ## Recipes
 
+- For aerial photo requests from City of Hamilton
+```
+H:\Digitization_Projects\Air_Photos\AirPhotos_1985_Hamilton>
+magick convert HamiltonAirPhotos_1985_087.tif -resize 50% HamiltonAirPhotos_1985_087.jpg
+```
+
 - Return image specifications  
 ```identify LCMSDS_WW2_DefOvrPrnt_Emden_1945_c1.tif```
 
