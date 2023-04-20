@@ -18,8 +18,8 @@
 | Index Name | Index URL | Index Repo URL |Other Notes|
 |-------|-----|-----|-----|
 |October Crisis 1970|[link](https://library.mcmaster.ca/october-crisis-1970)|[link](https://github.com/McMaster-University-Library/october-crisis-1970)||
-|Historical Hamilton|[link](https://library.mcmaster.ca/maps/aerialphotos/index.html)|[link](https://github.com/McMaster-University-Library/AirPhoto-Index-Metadata)||
-|Historical Hamilton - Development|[link](http://perec.mcmaster.ca/maps/apindex-dev/)|[link](https://github.com/McMaster-University-Library/AirPhoto-Index-Metadata)|Location on perec: /var/www/maps/apindex-dev|
+|Historical Hamilton|[link](https://library.mcmaster.ca/maps/aerialphotos/index.html)|[link](https://github.com/McMaster-University-Library/AirPhoto-Index-Metadata)|Location on http1.lib.mcmaster.ca: /www/library_files/maps|
+|Historical Hamilton - Development|[link](http://perec.mcmaster.ca/maps/apindex-dev/)|[link](https://github.com/McMaster-University-Library/AirPhoto-Index-Metadata)|Location on perec.mcmaster.ca: /var/www/maps/apindex-dev|
 |Robt Clifford Fortifications|[link](https://library.mcmaster.ca/maps/robertclifford/fortifications)|[link](https://github.com/McMaster-University-Library/city_views_plans_fortifications)||
 |Italy WWII Topos|[link](https://library.mcmaster.ca/maps/ww2/italy-ww2topos/)|[link](https://github.com/McMaster-University-Library/italy-ww2topos)||
 |Hamilton 19th Century Plans|[link](https://library.mcmaster.ca/maps/19thcmaps/)|[link](https://github.com/McMaster-University-Library/Hamilton-19th-Century-Maps)||
