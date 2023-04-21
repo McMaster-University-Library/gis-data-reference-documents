@@ -7,7 +7,10 @@
 - Outside requests for City of Hamilton requests go to: GISServices@hamilton.ca
 
 - Comparison of Hamilton Open and Non-Open data: https://goo.gl/sT1dUW
-- Hamilton Open and Accessible Data: https://www.hamilton.ca/city-initiatives/strategies-actions/open-accessible-data 
+- Hamilton Open and Accessible Data: https://open.hamilton.ca/ 
+
+## Software request form:
+- ArcGIS software request: https://docs.google.com/forms/d/e/1FAIpQLSc1NpIK3WNkWT2P92nBsBB76PDlpDa9uKn7tYi3wGO6co97eA/viewform?usp=sf_link
 
 ## Digital Archive CC Waiver request:
 - Request for commercial use of digital archive items: https://goo.gl/forms/OSi1mSj1PhiMrkYB3
